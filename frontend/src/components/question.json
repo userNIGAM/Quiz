@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correct": 1
+  },
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Rome", "Paris", "Madrid"],
+    "correct": 2
+  },
+  {
+    "question": "Which programming language is primarily used for web development?",
+    "options": ["Python", "C++", "JavaScript", "Java"],
+    "correct": 2
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct": 1
+  },
+  {
+    "question": "In which year was the first iPhone released?",
+    "options": ["2005", "2007", "2008", "2010"],
+    "correct": 1
+  },
+  {
+    "question": "Who wrote the Harry Potter series?",
+    "options": ["J.K. Rowling", "Tolkien", "George R.R. Martin", "C.S. Lewis"],
+    "correct": 0
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["Oxygen", "Gold", "Osmium", "Iron"],
+    "correct": 0
+  },
+  {
+    "question": "Which game features characters like Mario and Luigi?",
+    "options": ["Zelda", "Mario Bros", "Sonic", "Pac-Man"],
+    "correct": 1
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correct": 1
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "correct": 2
+  },
+  {
+    "question": "Which planet is closest to the sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "correct": 0
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8", "9"],
+    "correct": 2
+  },
+  {
+    "question": "Which fictional city does Batman protect?",
+    "options": ["Metropolis", "Gotham", "Star City", "Central City"],
+    "correct": 1
+  },
+  {
+    "question": "What is the chemical formula of water?",
+    "options": ["H2O", "CO2", "O2", "NaCl"],
+    "correct": 0
+  },
+  {
+    "question": "Which programming language is known for its snake logo?",
+    "options": ["Python", "Ruby", "Java", "C#"],
+    "correct": 0
+  },
+  {
+    "question": "Which organ in the human body filters blood?",
+    "options": ["Liver", "Kidney", "Heart", "Lungs"],
+    "correct": 1
+  },
+  {
+    "question": "Who is the author of 'The Hobbit'?",
+    "options": ["J.K. Rowling", "Tolkien", "George Orwell", "C.S. Lewis"],
+    "correct": 1
+  },
+  {
+    "question": "Which video game series features 'Link' as the main character?",
+    "options": ["Zelda", "Mario", "Halo", "Final Fantasy"],
+    "correct": 0
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Diamond", "Gold", "Iron", "Quartz"],
+    "correct": 0
+  },
+  {
+    "question": "Which planet has rings around it?",
+    "options": ["Saturn", "Mars", "Venus", "Neptune"],
+    "correct": 0
+  }
+]
